@@ -1,0 +1,30 @@
+; This Add-on is not created by, affiliated with or sponsored by ZeniMax
+; Media Inc. or its affiliates. The Elder Scrolls® and related logos are
+; registered trademarks or trademarks of ZeniMax Media Inc. in the United
+; States and/or other countries. All rights reserved.
+; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
+
+## APIVersion: 100035
+## Title:  |cFFC0CBSauhaufen|r 
+## Description: Sauhaufen Gilden Addon
+## Author: m00nyONE
+## Version: 1.11.0 BETA
+## AddOnVersion: 22
+## DependsOn: LibAddonMenu-2.0>=31
+## OptionalDependsOn: OdySupportIcons
+## SavedVariables: SauhaufenVars
+
+Menu.lua
+Sauhaufen.lua
+Sauhaufen_scrollList.lua
+Sauhaufen_roles.lua
+Sauhaufen_gui.lua
+Sauhaufen.xml
+Sauhaufen_guildhalls.lua
+Sauhaufen_events.lua
+Sauhaufen_housing.lua
+Sauhaufen_games.lua
+
+Sauhaufen_cli.lua
+
+bindings.xml
